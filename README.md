@@ -2,7 +2,6 @@
 - 🧑‍🎓Student
 - 🇳🇱 Dutch
 - ❓ Ask me anyting
-- Learning Github and electrical engineering
 <!--
 **Floriskwek07/Floriskwek07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
